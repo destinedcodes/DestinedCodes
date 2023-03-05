@@ -1,14 +1,12 @@
-<img src="https://github.com/DestinedCodes/DestinedCodes/blob/main/White%20and%20Black%20Modern%20Twitter%20Header.png" height="auto" width="auto" style="border-radius:100%" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/Pink%20and%20Tan%20Flowers%20Modern%20Artisan%20Business%20X-Frame%20Banner.png" alt="banner that says DESTINY SATURDAY - Software engineer | Code never lies, comments sometimes do.">
 
-[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
+### 🤝Find me around the web earth_americas:: 
+[<img alt="alt_text" height="25px" src="https://github.com/8bithemantt/8bithemant/blob/master/svg/social/twitter.svg" />](https://www.google.com/)
+[<img alt="alt_text" height="25px" src="https://github.com/8bithemantt/8bithemant/blob/master/svg/social/linkedin.svg" />](https://www.google.com/)
+[<img alt="alt_text" width="21px" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/reddit.png" />](https://www.google.com/)
 
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
