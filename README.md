@@ -1,9 +1,7 @@
 <img src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/Pink%20and%20Tan%20Flowers%20Modern%20Artisan%20Business%20X-Frame%20Banner.png" alt="banner that says DESTINY SATURDAY - Software engineer | Code never lies, comments sometimes do.">
 
-### 🤝Find me around the web earth_americas:: 
-[<img alt="alt_text" height="25px" src="https://github.com/8bithemantt/8bithemant/blob/master/svg/social/twitter.svg" />](https://www.google.com/)
-[<img alt="alt_text" height="25px" src="https://github.com/8bithemantt/8bithemant/blob/master/svg/social/linkedin.svg" />](https://www.google.com/)
-[<img alt="alt_text" width="21px" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/reddit.png" />](https://www.google.com/)
+[<img alt="alt_text" height="21px" src="https://github.com/8bithemantt/8bithemant/blob/master/svg/social/twitter.svg" />](https://www.google.com/)
+[<img alt="alt_text" height="21px" src="https://github.com/8bithemantt/8bithemant/blob/master/svg/social/linkedin.svg" />](https://www.google.com/)
 
 
 
