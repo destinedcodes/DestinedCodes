@@ -11,23 +11,5 @@ I'm a software engineer who is passionate about making contributing to open-sour
 [<img src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDestinedCodes" height="25px" />](https://twitter.com/DestinedCodes)
 [<img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIN&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdestinysaturday" amheight="25px" />](https://www.linkedin.com/in/destinysaturday)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs">
-</a>
 
-
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in India</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
 
