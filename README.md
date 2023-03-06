@@ -9,8 +9,8 @@ Find me in the web:
 
 ## Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![LinkedIn URL](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes&langs_count=8&theme=transparent)](https://linkedin.com/in/destinysaturday)
+<a href="https://git.io/streak-stats"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes&amp;theme=transparent&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a>
+<a href="https://linkedin.com/in/destinysaturday"><img width="34.5%" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes&amp;langs_count=8&amp;theme=transparent" alt="LinkedIn URL" height="100%"></a>
 
 
 ## Pinned
