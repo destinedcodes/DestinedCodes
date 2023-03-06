@@ -4,9 +4,9 @@
 
 <table>
   <tr>
-    <td width="55%">
+    <td colspan="2">
+      <h2>Hi, I'm Destiny 👋🏽 👨🏽‍💻</h2>
       <p>
-        <h2>Hi, I'm Destiny 👋🏽 👨🏽‍💻</h2>
         I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
       </p>
       <ul>
@@ -20,15 +20,21 @@
         <li>⚡ Fun fact: ...</li>
       </ul>
     </td>
-    <td width="45%" align="right">
-      <h2 align="center">Github Stats</h2>
+  </tr>
+  <tr>
+    <td>
+      <h2>Github Stats</h2>
       <img height="auto" width="100%" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
+    </td>
+    <td>
+      <h2>Top Languages</h2>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="auto" width="100%" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
