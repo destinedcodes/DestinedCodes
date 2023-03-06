@@ -2,22 +2,14 @@
 
 ## Hi, I'm Destiny 👋🏽 👨🏽‍💻
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
-- 🔭 I’m currently working on ...</li>
-        <li>🌱 I’m currently learning ...</li>
-        <li>👯 I’m looking to collaborate on ...</li>
-        <li>🤔 I’m looking for help with ...</li>
-        <li>💬 Ask me about ...</li>
-        <li>📫 How to reach me: ...</li>
-        <li>😄 Pronouns: ...</li>
-        <li>⚡ Fun fact: ...</li>
-<img height="auto" width="100%" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
-<img height="auto" width="100%" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes&layout=compact" />
 
+## Github Stats
+<img height="auto" width="49%" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" /> <img height="auto" width="49%" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes&layout=compact" />
 
 
 
 [<img src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDestinedCodes" height="25px" />](https://twitter.com/DestinedCodes)
-[<img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIN&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdestinysaturday" height="25px" />](https://www.linkedin.com/in/destinysaturday)
+[<img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIN&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdestinysaturday" amheight="25px" />](https://www.linkedin.com/in/destinysaturday)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs">
