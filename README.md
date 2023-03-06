@@ -1,16 +1,8 @@
 <img src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/Pink%20and%20Tan%20Flowers%20Modern%20Artisan%20Business%20X-Frame%20Banner.png" alt="banner that says DESTINY SATURDAY - Software engineer | Code never lies, comments sometimes do." padding="100px">
 
-
-
-<table>
-  <tr>
-    <td colspan="2">
-      <h2>Hi, I'm Destiny 👋🏽 👨🏽‍💻</h2>
-      <p>
-        I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
-      </p>
-      <ul>
-        <li>🔭 I’m currently working on ...</li>
+## Hi, I'm Destiny 👋🏽 👨🏽‍💻
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+- 🔭 I’m currently working on ...</li>
         <li>🌱 I’m currently learning ...</li>
         <li>👯 I’m looking to collaborate on ...</li>
         <li>🤔 I’m looking for help with ...</li>
@@ -18,22 +10,8 @@
         <li>📫 How to reach me: ...</li>
         <li>😄 Pronouns: ...</li>
         <li>⚡ Fun fact: ...</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h2>Github Stats</h2>
-      <img height="auto" width="100%" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
-    </td>
-    <td>
-      <h2>Top Languages</h2>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="auto" width="100%" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs">
-      </a>
-    </td>
-  </tr>
-</table>
+<img height="auto" width="100%" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
+<img height="auto" width="100%" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes&layout=compact" />
 
 
 
