@@ -5,7 +5,8 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 Find me in the web:
 [<img src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDestinedCodes" height="25px" />](https://twitter.com/DestinedCodes)
-[<img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIN&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdestinysaturday" amheight="25px" />](https://www.linkedin.com/in/destinysaturday)
+![https://twitter.com/DestinedCodes](https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=blue&logoColor=white)
+
 
 ## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
