@@ -1,13 +1,39 @@
-<img src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/Pink%20and%20Tan%20Flowers%20Modern%20Artisan%20Business%20X-Frame%20Banner.png" alt="banner that says DESTINY SATURDAY - Software engineer | Code never lies, comments sometimes do.">
-
-[<img alt="alt_text" height="21px" src="https://github.com/8bithemantt/8bithemant/blob/master/svg/social/twitter.svg" />](https://www.google.com/)
-[<img alt="alt_text" height="21px" src="https://github.com/8bithemantt/8bithemant/blob/master/svg/social/linkedin.svg" />](https://www.google.com/)
+<img src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/Pink%20and%20Tan%20Flowers%20Modern%20Artisan%20Business%20X-Frame%20Banner.png" alt="banner that says DESTINY SATURDAY - Software engineer | Code never lies, comments sometimes do." padding="100px">       [<img src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDestinedCodes" height="25px" />](https://twitter.com/DestinedCodes)       [<img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIN&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdestinysaturday" height="25px" />](https://www.linkedin.com/in/destinysaturday)
 
 
 
+<table>
+  <tr>
+    <td width="55%">
+      <p align="justify">
+        I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+      </p>
+    </td>
+    <td width="45%" align="right">
+      <h2 align="center">Github Stats</h2>
+      <img height="auto" width="450px" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
+    </td>
+  </tr>
+</table>
 
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
