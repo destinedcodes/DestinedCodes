@@ -1,4 +1,4 @@
-[![LinkedIn URL](https://github.com/DestinedCodes/DestinedCodes/blob/main/images/Dark%20Purple%20Modern%20Twitter%20Header.png)](https://linkedin.com/in/destinysaturday)
+[![LinkedIn URL](https://github.com/DestinedCodes/DestinedCodes/blob/main/images/Dark%20Purple%20Modern%20Twitter%20Header.png)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#hi-im-destiny--)
 
 ## Hi, I'm Destiny 👋🏽 👨🏽‍💻
 I'm a passionate software engineering student also studying data engineering. My focus is on mastering artificial intelligence (AI) and cyber-security to create intelligent systems and protect them from cyber threats. I'm enthusiastic about learning more about machine learning algorithms, natural language processing, security protocols, and computer vision. Let's connect and collaborate to solve challenging problems in software engineering!
@@ -22,27 +22,29 @@ I'm a passionate software engineering student also studying data engineering. My
 
 ### 💼 Technical Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
 
 </br>
 
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
 
-### Github Stats
+### 📊 Github Stats
 <p>
-  <img height="250px" valign="top" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
-  <img width="370" valign="top" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes" />
+  <img height="60%" valign="top" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
+  <img width="38%" valign="top" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes" />
 </p>
