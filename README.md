@@ -49,6 +49,5 @@ I'm a passionate software engineering student also studying data engineering. My
 
 ### Github Stats
 <p>
-  <img height="auto" width="100%" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
-  <img height="auto" width="100%" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes&layout=compact" />
+  <img width="65%" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" /><img valign="top" width="35%" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes" />
 </p>
