@@ -6,10 +6,10 @@ I'm a passionate software engineering student also studying data engineering. My
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/destinysaturday/"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.twitter.com/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/twitter.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://www.instagram.com/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://www.dev.to/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/devdotto.png" alt="Yu Shi | Instagram" height="21px"/></a>
+<a href="https://www.linkedin.com/in/destinysaturday/"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/linkedin.svg" alt="Destiny Saturday | LinkedIn" width="21px"/></a>
+<a href="https://www.twitter.com/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/twitter.svg" alt="Destined Codes | Twitter" width="21px"/></a>
+<a href="https://www.instagram.com/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/instagram.svg" alt="Destined Codes | Instagram" width="21px"/></a>
+<a href="https://www.dev.to/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/devdotto.png" alt="Destined Codes | Dev.to" height="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -43,6 +43,6 @@ I'm a passionate software engineering student also studying data engineering. My
 
 ### Github Stats
 <p>
-  <img width="100%" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
-  <img width="100%" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes&layout=compact" />
+  <img height="250px" valign="top" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
+  <img width="370" valign="top" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes" />
 </p>
