@@ -44,6 +44,7 @@ I'm a passionate software engineering student also studying data engineering. My
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
 
 ### 📊 Github Stats
-<span>
-  <img height="60%" valign="top" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" /> <img width="auto" valign="top" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes" />
-</span>
+<p align="justify" width="100%">
+  <img valign="top" alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
+  <img valign="top" alt="Github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes" />
+</p>
