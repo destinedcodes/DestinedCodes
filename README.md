@@ -46,5 +46,5 @@ I'm a passionate software engineering student also studying data engineering. My
 ### 📊 Github Stats
 <p align="justify" width="100%">
   <img valign="top" alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes&theme=transparent" />
-  <img valign="top" alt="Github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes" />
+  <img valign="top" alt="Github Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destinedcodes&theme=transparent" />
 </p>
