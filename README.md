@@ -46,3 +46,9 @@ I'm a passionate software engineering student also studying data engineering. My
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Github Stats
+<p>
+  <img height="auto" width="100%" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=DestinedCodes" />
+  <img height="auto" width="100%" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestinedCodes&layout=compact" />
+</p>
