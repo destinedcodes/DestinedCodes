@@ -45,6 +45,6 @@ I'm a passionate software engineering student also studying data engineering. My
 
 ### 📊 Github Stats
 <p align="justify" width="100%">
-     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=destinedcodes&theme=transparent&show_icons=true&locale=en" alt="milly801" width="auto" />
-     <img valign="top" alt="Github Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destinedcodes&theme=transparent&layout=compact&langs_count=8" width="auto"/>
+     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=destinedcodes&theme=transparent&show_icons=true&locale=en" alt="Destiny Saturday's  Github stats" width="auto" />
+     <img valign="top" alt="Destiny Saturday's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destinedcodes&theme=transparent&layout=compact&langs_count=8" width="auto"/>
 </p>
