@@ -13,14 +13,14 @@ I'm a passionate software engineering student also studying data engineering. My
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-### 🌱 I'm currently learning
+### 🌱 I'm currently learning:
 
 - C Programming
 - Python
 - SQL
 - JavaScript
 
-### 💼 Technical Skills
+### 💼 Technical Skills:
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
@@ -43,7 +43,7 @@ I'm a passionate software engineering student also studying data engineering. My
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#-technical-skills)
 
-### 📊 Github Stats
+### 📊 Github Stats:
 <p align="justify" width="100%">
      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=destinedcodes&theme=transparent&show_icons=true&locale=en" alt="Destiny Saturday's  Github stats" width="auto" />
      <img valign="top" alt="Destiny Saturday's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destinedcodes&theme=transparent&layout=compact&langs_count=8" width="auto"/>
