@@ -16,6 +16,7 @@ I'm a passionate software engineering student also studying data engineering. My
 ### 🌱 I'm currently learning
 
 - C Programming
+- Python
 - SQL
 - JavaScript
 
