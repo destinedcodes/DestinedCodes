@@ -13,7 +13,7 @@ I'm a passionate software engineering student also studying data engineering. My
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-### 🌱 I'm currently learning
+### 🌱 I'm currently learning:
 
 - C Programming
 - Python
