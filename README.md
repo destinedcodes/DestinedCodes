@@ -17,7 +17,8 @@ I'm a passionate software engineering student also studying data engineering. My
 
 - C Programming
 - SQL
-- JavaScript
+- Cloud Computing
+- Machine Learning
 
 ### 💼 Technical Skills
 
