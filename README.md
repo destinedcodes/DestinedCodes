@@ -3,7 +3,6 @@
 ## Hi, I'm Destiny 👋🏽 👨🏽‍💻
 I'm a passionate software engineering student also studying data engineering. My focus is on mastering artificial intelligence (AI) and cyber-security to create intelligent systems and protect them from cyber threats. I'm enthusiastic about learning more about machine learning algorithms, natural language processing, security protocols, and computer vision. Let's connect and collaborate to solve challenging problems in software engineering!
      
-
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/destinysaturday/"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/linkedin.svg" alt="Destiny Saturday | LinkedIn" width="21px"/></a>
