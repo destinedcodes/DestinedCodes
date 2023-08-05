@@ -48,3 +48,7 @@ I'm a passionate software engineering student also studying data engineering. My
      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=destinedcodes&theme=transparent&show_icons=true&locale=en" alt="Destiny Saturday's  Github stats" width="auto" />
      <img valign="top" alt="Destiny Saturday's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destinedcodes&theme=transparent&layout=compact&langs_count=8" width="auto"/>
 </p>
+</br>
+
+<h3><a href="https://www.buymeacoffee.com/destinecodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></h3>
+<i>Your support fuels my journey—keeping the code flowing and ideas brewing!</i>
