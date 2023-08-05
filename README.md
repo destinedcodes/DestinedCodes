@@ -50,5 +50,5 @@ I'm a passionate software engineering student also studying data engineering. My
 </p>
 </br>
 
-<h3><a href="https://www.buymeacoffee.com/destinecodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></h3>
+<h3><a href="https://www.buymeacoffee.com/destinedcodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></h3>
 <i>Your support fuels my journey—keeping the code flowing and ideas brewing!</i>
