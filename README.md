@@ -3,7 +3,6 @@
 ## Hi, I'm Destiny 👋🏽 👨🏽‍💻
 I'm a passionate software engineering student also studying data engineering. My focus is on mastering artificial intelligence (AI) and cyber-security to create intelligent systems and protect them from cyber threats. I'm enthusiastic about learning more about machine learning algorithms, natural language processing, security protocols, and computer vision. Let's connect and collaborate to solve challenging problems in software engineering!
      
-
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/destinysaturday/"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/assets/84413505/7741a79c-e8cd-49dd-8185-348be98c8006" alt="Destiny Saturday | LinkedIn" width="21px"/></a>
@@ -16,9 +15,9 @@ I'm a passionate software engineering student also studying data engineering. My
 ### 🌱 I'm currently learning
 
 - C Programming
-- Python
 - SQL
-- JavaScript
+- Cloud Computing
+- Machine Learning
 
 ### 💼 Technical Skills
 
@@ -48,3 +47,7 @@ I'm a passionate software engineering student also studying data engineering. My
      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=destinedcodes&theme=transparent&show_icons=true&locale=en" alt="Destiny Saturday's  Github stats" width="auto" />
      <img valign="top" alt="Destiny Saturday's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destinedcodes&theme=transparent&layout=compact&langs_count=8" width="auto"/>
 </p>
+</br>
+
+<h3><a href="https://www.buymeacoffee.com/destinedcodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></h3>
+<i>Your support fuels my journey—keeping the code flowing and ideas brewing!</i>
