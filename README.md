@@ -6,10 +6,10 @@ I'm a passionate software engineering student also studying data engineering. My
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/destinysaturday/"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/linkedin.svg" alt="Destiny Saturday | LinkedIn" width="21px"/></a>
-<a href="https://www.twitter.com/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/twitter.svg" alt="Destined Codes | Twitter" width="21px"/></a>
-<a href="https://www.instagram.com/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/instagram.svg" alt="Destined Codes | Instagram" width="21px"/></a>
-<a href="https://www.dev.to/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/devdotto.png" alt="Destined Codes | Dev.to" height="21px"/></a>
+<a href="https://www.linkedin.com/in/destinysaturday/"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/assets/84413505/7741a79c-e8cd-49dd-8185-348be98c8006" alt="Destiny Saturday | LinkedIn" width="21px"/></a>
+<a href="https://www.twitter.com/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/assets/84413505/a9e3fecd-69ed-4ff2-b0b2-388cbc6c8c9f" alt="Destined Codes | Twitter" width="21px"/></a>
+<a href="https://www.instagram.com/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/assets/84413505/2596577c-ef57-4dc0-88c9-ba656cf3af8d" alt="Destined Codes | Instagram" width="21px"/></a>
+<a href="https://www.dev.to/DestinedCodes"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/assets/84413505/adddb66a-ec63-47c0-b03b-3c53c32d1219" alt="Destined Codes | Dev.to" height="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
