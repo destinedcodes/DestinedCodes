@@ -18,4 +18,4 @@ jobs:
           token: ${{ secrets.my_pat }}
 
       - name: Show Working directory
-        run: ls; pwd
+        run: ls -la; pwd
