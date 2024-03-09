@@ -18,4 +18,4 @@ jobs:
           token: ${{ secrets.my_pat }}
 
       - name: Show Working directory
-        run: ls -la; pwd
+        run: ls -la ./git-submodules-practice; pwd
