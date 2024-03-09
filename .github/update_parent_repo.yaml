@@ -1,0 +1,21 @@
+name: Update Parent Repo
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out my other private repo
+        uses: actions/checkout@master
+        with:
+          repository: destinedcodes/git-submodules-practice
+          path: ./git-submodules-practice
+          submodules: recursive
+          token: ${{ secrets.my_pat }}
+
+      - name: Show Working directory
+        run: ls; pwd
